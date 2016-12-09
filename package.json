@@ -13,13 +13,20 @@
     "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.13",
     "gulp-connect": "^5.0.0",
+    "gulp-css-spriter": "^0.3.3",
     "gulp-if": "^2.0.2",
     "gulp-imagemin": "^3.1.1",
     "gulp-include": "^2.3.1",
     "gulp-inline-source": "^3.0.0",
+    "gulp-jshint": "^2.0.4",
     "gulp-print": "^2.0.1",
     "gulp-sequence": "^0.4.6",
     "gulp-uglify": "^2.0.0",
-    "gulp-useref": "^3.1.2"
+    "gulp-useref": "^3.1.2",
+    "gulp.spritesmith": "^6.2.1",
+    "imagemin": "^5.2.2",
+    "imagemin-jpegtran": "^5.0.2",
+    "jpegtran-bin": "^3.1.0",
+    "jshint": "^2.9.4"
   }
 }
